@@ -23,7 +23,25 @@ Week 3 - Valentine Hugo
 
 Week 4 - Salvador Dali
 
-March (Abstract Expressionism)
+March (Cubism)
+Week 1 - Marie Laurencin
+
+Week 2 - Juan Gris
+
+Week 3 - Marc Chegall
+
+Week 4 - Georges Braque
+
+April (Cubo-Futurism)
+Week 1 - Olga Rozanova
+
+Week 2 - Lyubov Popova 
+
+Week 3 - Natalia Goncharova
+
+Week 4 - Alexander Bogomazov
+
+May (Abstract Expressionism)
 Week 1 - Lee Krasner
 
 Week 2 - Wassily Kandinsky
@@ -32,8 +50,58 @@ Week 3 - Grace Hartigan
 
 Week 4 - Helen Frankenthaler
 
---
+June (Art Nouveau)
+Week 1 - Gerda Wegener
 
-Marc Chegall
-Lyubov Popova
-Cubo-Futurism
+Week 2 - Alphonse Mucha
+
+Week 3 - Margaret MacDonald Mackintosh
+
+Week 4 - Frances MacDonald
+
+August (Neo-Expressionism)
+Week 1 - 
+
+Week 2 - 
+
+Week 3 - 
+
+Week 4 - 
+
+September (Modern)
+Week 1 - 
+
+Week 2 - 
+
+Week 3 - 
+
+Week 4 - 
+
+October (Shin-hanga)
+Week 1 - 
+
+Week 2 - 
+
+Week 3 - 
+
+Week 4 -
+
+November (Romanticism)
+Week 1 - Henriëtte Ronner-Knip
+
+Week 2 - Caspar David Friedrich
+
+Week 3 - John Constable
+
+Week 4 - Ivan Aivazovsky
+
+December (Contemporary)
+Week 1 - 
+
+Week 2 - 
+
+Week 3 - 
+
+Week 4 - 
+
+--
