@@ -10,12 +10,12 @@ body {
 /* ------------------------------------------------------------------ */
 
 .header {
-    display: flex;
-    align-items: center;
     font-size: 36px;
+    padding-left: 20px;
     background-color: blue;
     color: white;
-    padding-left: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .header p {
@@ -38,7 +38,6 @@ body {
     text-align: left;
     width: 200px;
     min-width: 160px;
-    box-sizing: border-box;
 }
 
 .sidebar a {
@@ -48,9 +47,9 @@ body {
 }
 
 ul {
-    list-style-type: none;
     margin: 0;
     padding: 10px;
+    list-style-type: none;
 }
 
 li {
@@ -61,9 +60,9 @@ li {
 /* ------------------------------------------------------------------ */
 
 .info {
+    font-size: 20px;
     margin: 0 20px;
     margin-left: 100px;
-    font-size: 20px;
     display: flex;
     flex-direction: column;
     justify-items: center;
@@ -84,6 +83,7 @@ li {
 /* ------------------------------------------------------------------ */
 
 .week {
+
 }
 
 .weekheader {
@@ -113,9 +113,10 @@ li {
 /* ------------------------------------------------------------------ */
 
 .footer {
+    font-size: 20px;
+    background-color: blue;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blue;
-    color: white;
 }
