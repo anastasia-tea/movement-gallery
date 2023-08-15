@@ -16,18 +16,25 @@ body {
 
 .content {
     display: flex;
+    justify-content: space-between;
     flex: 1;
 }
 
 .sidebar {
     background-color: purple;
+    display: flex;
+    text-align: left;
 }
 
 ul {
     list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    width: 200px;
 }
 
 .sidebar a {
+    font-size: 20px;
     color: white;
     text-decoration: none;
 }
@@ -36,13 +43,31 @@ ul {
     font-size: 20px;
 }
 
+.month {
+    text-align: center;
+}
+
 .movement {
     font-size: 20px;
+}
+
+.week {
+    display: flex;
+    flex-direction: column;
+}
+
+.weekheader {
+
+}
+
+.artist {
+    text-align: center;
 }
 
 .pieces {
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
 }
 
 .piece {

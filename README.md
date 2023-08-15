@@ -5,6 +5,9 @@ Each month focused on a specific art movement that they enjoyed, and every week,
 
 References:
 
-Art Movement Information
+January
 
-Art Pieces
+February
+
+March
+
