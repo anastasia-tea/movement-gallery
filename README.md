@@ -15,9 +15,10 @@ January (Impressionism)
 Week 1 - Pierre-Auguste Renoir
     -https://www.nationalgallery.org.uk/artists/pierre-auguste-renoir
     -https://www.wikiart.org/en/pierre-auguste-renoir
-    -https://www.nationalgallery.org.uk/artists/pierre-auguste-renoir
 
 Week 2 - Claude Monet
+    -https://www.wikiart.org/en/claude-monet
+    -https://www.nationalgallery.org.uk/artists/claude-monet
 
 Week 3 - Berthe Marisot
 
