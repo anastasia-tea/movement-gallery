@@ -1,13 +1,16 @@
 # movement-gallery
 
-This is Movement Gallery Blog, a practice website displaying a user's blog where, for a year, they posted art pieces they enjoyed from different movements.
-Each month focused on a specific art movement that they enjoyed, and every week, they highlighted a new artist.
+This is Movement Gallery Blog, a practice website displaying a user's blog where, for a year, they post art pieces they enjoy from different art movements.
+Each month focuses on a specific art movement that they enjoy, and every week, they highlight a new artist.
+
+I thought this would be a fun practice project to expand my understanding of art history while making a website, and I am excited by some of the new artists I have found but also disappointed that so many names are new to me. This has been very meaningful and fun so far and has inspired me to keep up my visual arts practice.
 
 --------------------------------------------------------------------------
 
 References:
 
 -https://stackoverflow.com/questions/36754334/fitting-portrait-and-landscape-images-in-a-full-screen-image-carousel
+-https://docs.moodle.org/402/en/HTML_entities
 
 --------------------------------------------------------------------------
 
@@ -26,17 +29,21 @@ Week 3 - Berthe Morisot
 
 Week 4 - Mary Cassatt
     -https://nmwa.org/art/artists/mary-cassatt/
+    -https://www.wikiart.org/en/mary-cassatt
 
 --------------------------------------------------------------------------
 
 February (Surrealism)
-Week 1 - Yves Tanguy
+Week 1 - Remedios Varo
+    -https://nmwa.org/art/artists/remedios-varo/
+    -https://www.wikiart.org/en/remedios-varo
 
-Week 2 - Frida Kahlo
+Week 2 - Joan Mir&#243;
+    -https://www.wikiart.org/en/joan-miro
 
-Week 3 - Valentine Hugo
+Week 3 - Salvador Dali
 
-Week 4 - Salvador Dali
+Week 4 - Leonara Carrington
 
 --------------------------------------------------------------------------
 
