@@ -20,9 +20,12 @@ Week 2 - Claude Monet
     -https://www.wikiart.org/en/claude-monet
     -https://www.nationalgallery.org.uk/artists/claude-monet
 
-Week 3 - Berthe Marisot
+Week 3 - Berthe Morisot
+    -https://nmwa.org/art/artists/berthe-morisot/
+    -https://www.wikiart.org/en/berthe-morisot
 
 Week 4 - Mary Cassatt
+    -https://nmwa.org/art/artists/mary-cassatt/
 
 --------------------------------------------------------------------------
 
