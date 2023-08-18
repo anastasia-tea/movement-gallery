@@ -11,6 +11,7 @@ References:
 
 -https://stackoverflow.com/questions/36754334/fitting-portrait-and-landscape-images-in-a-full-screen-image-carousel
 -https://docs.moodle.org/402/en/HTML_entities
+-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
 
 --------------------------------------------------------------------------
 
