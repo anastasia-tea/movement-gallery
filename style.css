@@ -136,10 +136,15 @@ ul li {
 .recommendation {
     display: flex;
     flex-direction: column;
+    font-size: 20px;
 }
 
-#name {
+#name, #message {
     font-size: 20px;
+}
+
+#preferences {
+    flex-direction: column;
 }
 
 /* ------------------------------------------------------------------ */
