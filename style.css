@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     flex: 1;
+    flex-wrap: wrap;
 }
 
 /* ------------------------------------------------------------------ */
@@ -72,6 +73,10 @@ ul li {
 
 /* ------------------------------------------------------------------ */
 
+.banner {
+
+}
+
 .month {
     text-align: center;
 }
@@ -128,10 +133,27 @@ ul li {
     align-items: center;
 }
 
+.recommendation {
+    display: flex;
+    flex-direction: column;
+}
+
+#name {
+    font-size: 20px;
+}
+
+/* ------------------------------------------------------------------ */
+
 .signup {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+}
+
+.emailaddress {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #email,
