@@ -13,7 +13,7 @@ body {
 .header {
     font-size: 36px;
     padding-left: 20px;
-    background-color: blue;
+    background-color: rgb(89, 89, 248);
     color: white;
     display: flex;
     align-items: center;
@@ -34,7 +34,7 @@ body {
 /* ------------------------------------------------------------------ */
 
 .sidebar {
-    background-color: purple;
+    background-color: rgb(212, 60, 212);
     text-align: left;
     width: 200px;
     min-width: 160px;
@@ -166,7 +166,7 @@ ul li {
 .footer {
     font-size: 20px;
     font-weight: bold;
-    background-color: blue;
+    background-color: rgb(89, 89, 248);
     color: white;
     display: flex;
     justify-content: center;
