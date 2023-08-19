@@ -49,14 +49,14 @@ function showSubmitted() {
     const para2 = document.createElement("p");
     para2.classList.add("para2");
 
-    if ((choice1.value.checked) || (choice2.value.checked)) {
-        title.textContent = "Thanks For Visiting My Website";
-        para1.textContent = "Feel free to fill out your thoughts here, and";
-        para2.textContent = "I would love to connect you to more artwork!";
-    } else {
+    if ((choice1.checked) || (choice2.checked)) {
         title.textContent = "Submission Sent";
         para1.textContent = "Thank you for sending in your thoughts, and";
         para2.textContent = "I look forward to sending you my recommendations!";
+    } else {
+        title.textContent = "Thanks For Visiting My Website";
+        para1.textContent = "Feel free to fill out your thoughts here, and";
+        para2.textContent = "I would love to connect you to more artwork!";
     }
 
     submitted.appendChild(title);
