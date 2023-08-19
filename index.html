@@ -8,7 +8,7 @@
         <title>Movement Gallery</title>
 
         <link rel="stylesheet" href="style.css">
-        <script src="./script.js"></script>
+        <script src="./script.js" defer></script>
     </head>
 
     <body>
@@ -80,9 +80,14 @@
                         <label for="message">Any additional information that might help?</label>
                         <textarea type="text" id="message" placeholder="Message..."></textarea>
 
-                        <input class="submit" type="submit" value="Submit!">
+                        <button class="submit" onclick="showSubmitted()">Send</button>
 
                     </form>
+
+                    <div id="submitted" style="display: none">
+                        
+                    </div>
+
                 </div>
 
                 <div class="form">
@@ -94,7 +99,7 @@
         
                         <div class="emailaddress">
                             <input type="email" id="email" placeholder="ada1210@email.com" required>
-                            <input class="submit" type="submit" value="Submit!">
+                            <button class="submit">Join</button>
                         </div>
         
                     </form>
