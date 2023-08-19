@@ -43,37 +43,37 @@
                             <label">Favorite art movement on blog?</label>
 
                             <div id="movementchoices">
-                                <input type="checkbox" id="movement1" name="movementcheck" value="Impressionism">
+                                <input type="checkbox" class="movementcheck" id="movement1" name="movementcheck" value="Impressionism" onclick="showRadio()">
                                 <label for="movement1">Impressionism</label>
 
-                                <input type="checkbox" id="movement2" name="movementcheck" value="Surrealism">
+                                <input type="checkbox" class="movementcheck" id="movement2" name="movementcheck" value="Surrealism" onclick="showRadio()">
                                 <label for="movement2">Surrealism</label>
                             </div>
                         </div>
 
-                        <div id="artistpreferred">
+                        <div id="artistpreferred" style="display: none">
                             <label">Favorite artist from movement?</label>
 
-                            <div id="prefer1">
-                                <input name="artist1" type="radio" class="radio" id="radio1" value="Renoir">
-                                <label for="radio1">Renoir</label>
+                            <div id="prefer1" style="display: none">
+                                <input name="artist1" type="radio" class="radio1" id="choice1" value="Renoir">
+                                <label for="choice1">Renoir</label>
 
-                                <input name="artist1" type="radio" class="radio" id="radio2" value="Monet">
-                                <label for="radio2">Monet</label>
+                                <input name="artist1" type="radio" class="radio1" id="choice2" value="Monet">
+                                <label for="choice2">Monet</label>
 
-                                <input name="artist1" type="radio" class="radio" id="radio3" value="Morisot">
-                                <label for="radio3">Morisot</label>
+                                <input name="artist1" type="radio" class="radio1" id="choice3" value="Morisot">
+                                <label for="choice3">Morisot</label>
 
-                                <input name="artist1" type="radio" class="radio" id="radio4" value="Cassatt">
-                                <label for="radio4">Cassatt</label>
+                                <input name="artist1" type="radio" class="radio1" id="choice4" value="Cassatt">
+                                <label for="choice4">Cassatt</label>
                             </div>
 
-                            <div id="prefer2">
-                                <input name="artist2" type="radio" class="radio" id="radio1" value="Varo">
-                                <label for="radio1">Varo</label>
+                            <div id="prefer2" style="display: none">
+                                <input name="artist2" type="radio" class="radio2" id="choice1" value="Varo">
+                                <label for="choice1">Varo</label>
 
-                                <input name="artist2" type="radio" class="radio" id="radio2" value="Mir&#243;">
-                                <label for="radio2">Mir&#243;</label>
+                                <input name="artist2" type="radio" class="radio2" id="choice2" value="Mir&#243;">
+                                <label for="choice2">Mir&#243;</label>
                             </div>
                         </div>
 
