@@ -62,6 +62,4 @@ function showSubmitted() {
     submitted.appendChild(title);
     submitted.appendChild(para1);
     submitted.appendChild(para2);
-
-
 }
