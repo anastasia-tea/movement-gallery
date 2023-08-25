@@ -189,6 +189,8 @@ button {
     font-family: serif;
     font-size: 24px;
     font-weight: bold;
+    width: 100px;
+    align-self: center;
 }
 
 .recommendation,
