@@ -149,10 +149,43 @@ ul li {
 
 /* ------------------------------------------------------------------ */
 
+.form {
+
+}
+
+input,
+textarea {
+    margin: 6px;
+    font-family: serif;
+}
+
+.recommendation {
+    background-color: rgb(52, 52, 110);
+    color: white;
+    width: 400px;
+    gap: 10px;
+}
+
 .signup {
+    margin-bottom: 40px;
+    background-color: rgb(156, 24, 156);
+    color: white;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+}
+
+button {
+    background-color: rgb(80, 3, 80);;
+    color: white;
+    font-family: serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.recommendation,
+.signup {
+    padding: 20px 30px;
 }
 
 .emailaddress {
