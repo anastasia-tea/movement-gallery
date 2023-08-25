@@ -1,7 +1,8 @@
 
 body {
-    font-family: serif;
     margin: 0;
+    font-family: serif;
+    background-color: rgb(231, 233, 233);
     display: flex;
     flex-direction: column;
     flex: 1;
@@ -14,7 +15,7 @@ body {
     font-size: 36px;
     padding-left: 20px;
     background-color: rgb(89, 89, 248);
-    color: white;
+    color: rgb(231, 233, 233);
     display: flex;
     align-items: center;
 }
@@ -34,7 +35,7 @@ body {
 /* ------------------------------------------------------------------ */
 
 .sidebar {
-    background-color: rgb(212, 60, 212);
+    background-color: rgb(156, 24, 156);
     text-align: left;
     width: 200px;
     min-width: 160px;
@@ -42,7 +43,7 @@ body {
 
 .sidebar a {
     font-size: 24px;
-    color: white;
+    color: rgb(231, 233, 233);
     text-decoration: none;
 }
 
@@ -159,25 +160,32 @@ textarea {
     font-family: serif;
 }
 
-.recommendation {
+.recommendation,
+#submitted {
     background-color: rgb(52, 52, 110);
-    color: white;
+    color: rgb(231, 233, 233);
     width: 400px;
     gap: 10px;
 }
 
-.signup {
+.signup,
+#emailed {
     margin-bottom: 40px;
     background-color: rgb(156, 24, 156);
-    color: white;
+    color: rgb(231, 233, 233);
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
 
+#submitted,
+#emailed {
+    padding: 20px 80px;
+}
+
 button {
-    background-color: rgb(80, 3, 80);;
-    color: white;
+    background-color: rgb(80, 3, 80);
+    color: rgb(231, 233, 233);
     font-family: serif;
     font-size: 24px;
     font-weight: bold;
@@ -185,7 +193,7 @@ button {
 
 .recommendation,
 .signup {
-    padding: 20px 30px;
+    padding: 20px 80px;
 }
 
 .emailaddress {
@@ -205,7 +213,7 @@ button {
     font-size: 20px;
     font-weight: bold;
     background-color: rgb(89, 89, 248);
-    color: white;
+    color: rgb(231, 233, 233);
     display: flex;
     justify-content: center;
     align-items: center;
