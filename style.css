@@ -150,8 +150,8 @@ ul li {
 
 /* ------------------------------------------------------------------ */
 
-.form {
-
+.welcome {
+    text-align: center;
 }
 
 input,
@@ -166,6 +166,23 @@ textarea {
     color: rgb(231, 233, 233);
     width: 400px;
     gap: 10px;
+}
+
+.movement {
+    margin: 0 120px;
+    margin-bottom: 40px;
+    padding: 10px 20px;
+    border: 6px solid rgb(80, 3, 80);
+    color: black(231, 233, 233);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.movement p {
+    margin: 0;
+    padding: 6px;
+    font-size: 22px;
 }
 
 .signup,
