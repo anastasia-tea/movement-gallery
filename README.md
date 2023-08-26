@@ -17,6 +17,8 @@ References:
 --------------------------------------------------------------------------
 
 January (Impressionism)
+-https://www.britannica.com/art/Impressionism-art
+-https://www.theartstory.org/movement/impressionism/
 Week 1 - Pierre-Auguste Renoir
     -https://www.nationalgallery.org.uk/artists/pierre-auguste-renoir
     -https://www.wikiart.org/en/pierre-auguste-renoir
@@ -36,6 +38,8 @@ Week 4 - Mary Cassatt
 --------------------------------------------------------------------------
 
 February (Surrealism)
+-https://www.britannica.com/art/Surrealism/Surrealist-techniques
+-https://www.theartstory.org/movement/surrealism/
 Week 1 - Remedios Varo
     -https://nmwa.org/art/artists/remedios-varo/
     -https://www.wikiart.org/en/remedios-varo
